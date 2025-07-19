@@ -1,0 +1,70 @@
+{
+    "iconDefinitions": {
+      "_file": {
+        "iconPath": "./icons/file.svg"
+      },
+      "_folder": {
+        "iconPath": "./icons/folder.svg"
+      },
+      "js": {
+        "iconPath": "./icons/js.svg"
+      },
+      "html": {
+        "iconPath": "./icons/html.svg"
+      },
+      "htm": {
+        "iconPath": "./icons/html.svg"
+      },
+      "shtml": {
+        "iconPath": "./icons/html.svg"
+      },
+      "xhtml": {
+        "iconPath": "./icons/html.svg"
+      },
+      "faviconIcon": {
+        "iconPath": "./icons/image.svg"
+      },
+      "imageIcon": {
+        "iconPath": "./icons/image.svg"
+      },
+      "css": {
+        "iconPath": "./icons/css.svg"
+      },
+      "androidIcon": {
+        "iconPath": "./icons/android.svg"
+      },
+      "json": {
+        "iconPath": "./icons/json.svg"
+      }
+    },
+    "file": "_file",
+    "folder": "_folder",
+    "fileExtensions": {
+      "js": "js",
+      "html": "html",
+      "htm": "htm",
+      "xhtml": "xhtml",
+      "shtml": "shtml",
+      "apk": "androidIcon",
+      "xapk": "androidIcon",
+      "css": "css",
+      "json": "json",
+      "ico": "imageIcon",
+      "png": "imageIcon",
+      "jpg": "imageIcon",
+      "jpeg": "imageIcon",
+      "jfif": "imageIcon",
+      "avif": "imageIcon",
+      "webp": "imageIcon",
+    },
+    "fileNames": {
+        "favicon.ico": "faviconIcon",
+        "favicon.png": "faviconIcon",
+        "favicon.jpg": "faviconIcon"
+    },
+    "folderNames": {
+      "src": "_folder"
+    },
+    "light": {},
+    "highContrast": {}
+}  

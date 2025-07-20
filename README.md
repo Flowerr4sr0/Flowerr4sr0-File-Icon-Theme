@@ -1,5 +1,9 @@
 # Flower_r4sr0 File Icon Theme
 <a href="https://github.com/Flowerr4sr0/Flowerr4sr0-File-Icon-Theme/releases/">Download</a>
+Package Name: Flower_r4sr0 File Icon Theme
+Package ID: f0feinte
+Developer: Flower_r4sr0
+Latest Release: v1.1.1
 ## Changelog
 v1.0.0 - added HTML, Unknown File, Folder, JavaScript
 v1.1.0 - added Image

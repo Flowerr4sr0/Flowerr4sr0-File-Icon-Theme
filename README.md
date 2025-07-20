@@ -1,5 +1,6 @@
 # Flower_r4sr0 File Icon Theme
-## Change log
+<a href="https://github.com/Flowerr4sr0/Flowerr4sr0-File-Icon-Theme/releases/">Download</a>
+## Changelog
 v1.0.0 - added HTML, Unknown File, Folder, JavaScript
 v1.1.0 - added Image
 v1.1.1 - added JSON, Android

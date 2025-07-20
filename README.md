@@ -1,19 +1,9 @@
-# Flowerr4sr0-File-Icon-Theme
-A custom file icon theme for VS Code by Flower_r4sr0
+# Flower_r4sr0 File Icon Theme
 ## Icons
-Android: apk,xapk
-JSON: json
-CSS: css
-HTML: html,htm,xhtml,shtml
-JS: js
-Image: png,ico,jpg,jpeg,jfif,avif,webp
-File: {blank}
-Folder: {folder}
-## Icons 2
-<img src="icons/file.svg">
-<img src="icons/folder.svg">
-<img src="icons/android.svg">
-<img src="icons/json.svg">
-<img src="icons/html.svg">
-<img src="icons/js.svg">
-<img src="icons/image.svg">
+<img src="icons/file.svg"> Unknown File
+<img src="icons/folder.svg"> Folder
+<img src="icons/android.svg"> Android Files
+<img src="icons/json.svg"> JSON
+<img src="icons/html.svg"> HTML
+<img src="icons/js.svg"> JavaScript
+<img src="icons/image.svg"> Image Files

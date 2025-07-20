@@ -9,3 +9,5 @@ JS: js
 Image: png,ico,jpg,jpeg,jfif,avif,webp
 File: {blank}
 Folder: {folder}
+## Icons 2
+<img src="icons/file.svg">

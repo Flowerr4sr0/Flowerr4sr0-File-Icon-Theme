@@ -1,4 +1,8 @@
 # Flower_r4sr0 File Icon Theme
+## Change log
+v1.0.0 - added HTML, Unknown File, Folder, JavaScript
+v1.1.0 - added Image
+v1.1.1 - added JSON, Android
 ## Icons
 <img src="icons/file.svg"> Unknown File
 <img src="icons/folder.svg"> Folder

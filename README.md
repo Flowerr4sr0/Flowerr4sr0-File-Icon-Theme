@@ -3,4 +3,4 @@
 Package Name: Flower_r4sr0 File Icon Theme<br>
 Package ID: f0feinte<br>
 Developer: Flower_r4sr0<br>
-Latest Release: !(Latest Release)[https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest, "Latest Release"]<br>
+Latest Release: ![Latest Release](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest)<br>
